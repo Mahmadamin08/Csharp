@@ -1,0 +1,15 @@
+E:\C#\day1\polynomialadd\polynomialadd\bin\Debug\net6.0\polynomialadd.exe
+E:\C#\day1\polynomialadd\polynomialadd\bin\Debug\net6.0\polynomialadd.deps.json
+E:\C#\day1\polynomialadd\polynomialadd\bin\Debug\net6.0\polynomialadd.runtimeconfig.json
+E:\C#\day1\polynomialadd\polynomialadd\bin\Debug\net6.0\polynomialadd.dll
+E:\C#\day1\polynomialadd\polynomialadd\bin\Debug\net6.0\polynomialadd.pdb
+E:\C#\day1\polynomialadd\polynomialadd\obj\Debug\net6.0\polynomialadd.csproj.AssemblyReference.cache
+E:\C#\day1\polynomialadd\polynomialadd\obj\Debug\net6.0\polynomialadd.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\day1\polynomialadd\polynomialadd\obj\Debug\net6.0\polynomialadd.AssemblyInfoInputs.cache
+E:\C#\day1\polynomialadd\polynomialadd\obj\Debug\net6.0\polynomialadd.AssemblyInfo.cs
+E:\C#\day1\polynomialadd\polynomialadd\obj\Debug\net6.0\polynomialadd.csproj.CoreCompileInputs.cache
+E:\C#\day1\polynomialadd\polynomialadd\obj\Debug\net6.0\polynomialadd.dll
+E:\C#\day1\polynomialadd\polynomialadd\obj\Debug\net6.0\refint\polynomialadd.dll
+E:\C#\day1\polynomialadd\polynomialadd\obj\Debug\net6.0\polynomialadd.pdb
+E:\C#\day1\polynomialadd\polynomialadd\obj\Debug\net6.0\polynomialadd.genruntimeconfig.cache
+E:\C#\day1\polynomialadd\polynomialadd\obj\Debug\net6.0\ref\polynomialadd.dll

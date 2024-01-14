@@ -1,0 +1,15 @@
+E:\C#\day1\BinarySearchTree\BinarySearchTree\obj\Debug\net6.0\BinarySearchTree.csproj.AssemblyReference.cache
+E:\C#\day1\BinarySearchTree\BinarySearchTree\obj\Debug\net6.0\BinarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\day1\BinarySearchTree\BinarySearchTree\obj\Debug\net6.0\BinarySearchTree.AssemblyInfoInputs.cache
+E:\C#\day1\BinarySearchTree\BinarySearchTree\obj\Debug\net6.0\BinarySearchTree.AssemblyInfo.cs
+E:\C#\day1\BinarySearchTree\BinarySearchTree\obj\Debug\net6.0\BinarySearchTree.csproj.CoreCompileInputs.cache
+E:\C#\day1\BinarySearchTree\BinarySearchTree\bin\Debug\net6.0\BinarySearchTree.exe
+E:\C#\day1\BinarySearchTree\BinarySearchTree\bin\Debug\net6.0\BinarySearchTree.deps.json
+E:\C#\day1\BinarySearchTree\BinarySearchTree\bin\Debug\net6.0\BinarySearchTree.runtimeconfig.json
+E:\C#\day1\BinarySearchTree\BinarySearchTree\bin\Debug\net6.0\BinarySearchTree.dll
+E:\C#\day1\BinarySearchTree\BinarySearchTree\bin\Debug\net6.0\BinarySearchTree.pdb
+E:\C#\day1\BinarySearchTree\BinarySearchTree\obj\Debug\net6.0\BinarySearchTree.dll
+E:\C#\day1\BinarySearchTree\BinarySearchTree\obj\Debug\net6.0\refint\BinarySearchTree.dll
+E:\C#\day1\BinarySearchTree\BinarySearchTree\obj\Debug\net6.0\BinarySearchTree.pdb
+E:\C#\day1\BinarySearchTree\BinarySearchTree\obj\Debug\net6.0\BinarySearchTree.genruntimeconfig.cache
+E:\C#\day1\BinarySearchTree\BinarySearchTree\obj\Debug\net6.0\ref\BinarySearchTree.dll
