@@ -1,0 +1,5 @@
+E:\C#\day1\CustomerManage\CustomerManage\obj\Debug\net6.0\CustomerManage.csproj.AssemblyReference.cache
+E:\C#\day1\CustomerManage\CustomerManage\obj\Debug\net6.0\CustomerManage.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\day1\CustomerManage\CustomerManage\obj\Debug\net6.0\CustomerManage.AssemblyInfoInputs.cache
+E:\C#\day1\CustomerManage\CustomerManage\obj\Debug\net6.0\CustomerManage.AssemblyInfo.cs
+E:\C#\day1\CustomerManage\CustomerManage\obj\Debug\net6.0\CustomerManage.csproj.CoreCompileInputs.cache

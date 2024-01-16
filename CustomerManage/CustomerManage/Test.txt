@@ -1,0 +1,4 @@
+﻿Amin 123456789 Bhuj 18/10/2002 
+Dhoni 1234589 Ranchi 7/7/1981
+Smith 123786789 Sydney 18/10/1990
+Stokes 1235979789 Lords 12/10/1988

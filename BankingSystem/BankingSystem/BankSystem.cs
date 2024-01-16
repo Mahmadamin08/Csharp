@@ -78,6 +78,11 @@ namespace BankingSystem
             {
                 if (account.AccNo == transfer.acc1)
                 {
+                    if (account.Balance >= transfer.amount)
+                    {
+                        Console.WriteLine("Not Enough Balance");
+                        return;
+                    }
                     account.Balance -= transfer.amount;
                     Transaction s = new Transaction(tranId, transfer.acc1, transfer.acc2, true, transfer.amount, DateTime.Now);
                     account.Transactions.Add(s);

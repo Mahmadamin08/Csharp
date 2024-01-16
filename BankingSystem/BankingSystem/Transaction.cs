@@ -32,7 +32,7 @@ namespace BankingSystem
             {
                 return "TransactionId:- " + TransactionID + "\n " + Amount + " " + "Debited From " + AccountFrom + " To " + AccountTo + " on " + DateAndTime;
             }
-            return "TransactionId:- " + TransactionID + " \n" + Amount + " " + "Creadit To " + AccountTo + " From " + AccountFrom + " on " + DateAndTime;
+            return "TransactionId:- " + TransactionID + " \n " + Amount + " " + "Creadit To " + AccountTo + " From " + AccountFrom + " on " + DateAndTime;
         }
     }
 }
